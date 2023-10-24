@@ -1,2 +1,1 @@
-# js-etude
-# js-etude
+# javascript 공부
